@@ -1,1 +1,1 @@
-web: waitress-serve cardisle.wsgi:application
+web: waitress-serve :app
